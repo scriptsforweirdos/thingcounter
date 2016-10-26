@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Thing_Counter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Counter1Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Counter 1</Value>
+    </Setting>
+    <Setting Name="Counter1Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Counter2Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Counter2</Value>
+    </Setting>
+    <Setting Name="Counter2Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Counter3Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Counter3</Value>
+    </Setting>
+    <Setting Name="Counter3Value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

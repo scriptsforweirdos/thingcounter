@@ -1,0 +1,8 @@
+D:\My Documents\Visual Studio 2015\Projects\Thing Counter\Thing Counter\bin\Debug\Thing Counter.exe.config
+D:\My Documents\Visual Studio 2015\Projects\Thing Counter\Thing Counter\bin\Debug\Thing Counter.exe
+D:\My Documents\Visual Studio 2015\Projects\Thing Counter\Thing Counter\bin\Debug\Thing Counter.pdb
+D:\My Documents\Visual Studio 2015\Projects\Thing Counter\Thing Counter\obj\Debug\Thing_Counter.Form1.resources
+D:\My Documents\Visual Studio 2015\Projects\Thing Counter\Thing Counter\obj\Debug\Thing_Counter.Properties.Resources.resources
+D:\My Documents\Visual Studio 2015\Projects\Thing Counter\Thing Counter\obj\Debug\Thing Counter.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2015\Projects\Thing Counter\Thing Counter\obj\Debug\Thing Counter.exe
+D:\My Documents\Visual Studio 2015\Projects\Thing Counter\Thing Counter\obj\Debug\Thing Counter.pdb
